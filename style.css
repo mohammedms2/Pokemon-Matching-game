@@ -5,7 +5,7 @@
 
 body {
   margin: 0;
-  background: url(img/pokemonbackground-JPEG.jpg);
+  background: url(images/pokemonbackground-JPEG.jpg);
   background-position: center;
   background-size: cover;
   color: #ffffff; /* change text color to white */
@@ -63,7 +63,7 @@ h1 {
 }
 
 .card-down {
-  background-image: url(img/card.png);
+  background-image: url(images/card.png);
   background-position: center;
   background-size: cover;
 }
@@ -83,27 +83,27 @@ h1 {
 }
 
 .image-1 .card-up {
-  background-image: url(img/pokemon-1.png), linear-gradient(#72dbf4, #72dbf4);
+  background-image: url(images/pokemon-1.png), linear-gradient(#72dbf4, #72dbf4);
 }
 
 .image-2 .card-up {
-  background-image: url(img/pokemon-2.png), linear-gradient(#72dbf4, #72dbf4);
+  background-image: url(images/pokemon-2.png), linear-gradient(#72dbf4, #72dbf4);
 }
 
 .image-3 .card-up {
-  background-image: url(img/pokemon-3.png), linear-gradient(#72dbf4, #72dbf4);
+  background-image: url(images/pokemon-3.png), linear-gradient(#72dbf4, #72dbf4);
 }
 
 .image-4 .card-up {
-  background-image: url(img/pokemon-4.png), linear-gradient(#72dbf4, #72dbf4);
+  background-image: url(images/pokemon-4.png), linear-gradient(#72dbf4, #72dbf4);
 }
 
 .image-5 .card-up {
-  background-image: url(img/pokemon-5.png), linear-gradient(#72dbf4, #72dbf4);
+  background-image: url(images/pokemon-5.png), linear-gradient(#72dbf4, #72dbf4);
 }
 
 .image-6 .card-up {
-  background-image: url(img/pokemon-6.png), linear-gradient(#72dbf4, #72dbf4);
+  background-image: url(images/pokemon-6.png), linear-gradient(#72dbf4, #72dbf4);
 }
 
 .match .card-up {
@@ -136,3 +136,4 @@ h1 {
   cursor: pointer;
   background-color: #ffdb58; /* change button hover background color to a lighter yellow */
 }
+
