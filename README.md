@@ -1,1 +1,1 @@
-![My image](./images/image-1.png)
+![Alt text](./assets/css/image-1.png)
